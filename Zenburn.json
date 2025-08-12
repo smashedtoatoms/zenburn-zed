@@ -258,7 +258,7 @@
           },
           "link_text": {
             "color": "#93E0E3",
-            "font_style": "underline",
+            "font_style": "italic",
             "font_weight": null
           },
           "link_uri": {
