@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Zenburn",
+  "name": "Zenburn for Zed",
   "author": "Based on bbatsov/zenburn-emacs",
   "themes": [
     {
